@@ -1,0 +1,539 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prodigal returned to Scotland, or, A letter, written by a gentleman, to his friend at Montrose wherein he represents, the lover's warfare, the vanity of reposing confidence in rich friends, a short historie of his own misfortunes, the desireableness of conversation, and lastly, the true character of magnanimity, and a noble ambition, and the uncertainty and contempt of riches.</title>
+            <author>Dempster, George, of Kirktounhill.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82335</idno>
+            <idno type="STC">Wing D984</idno>
+            <idno type="STC">ESTC R212963</idno>
+            <idno type="EEBO-CITATION">99899523</idno>
+            <idno type="PROQUEST">99899523</idno>
+            <idno type="VID">153899</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82335)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153899)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2387:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prodigal returned to Scotland, or, A letter, written by a gentleman, to his friend at Montrose wherein he represents, the lover's warfare, the vanity of reposing confidence in rich friends, a short historie of his own misfortunes, the desireableness of conversation, and lastly, the true character of magnanimity, and a noble ambition, and the uncertainty and contempt of riches.</title>
+                  <author>Dempster, George, of Kirktounhill.</author>
+               </titleStmt>
+               <extent>[4], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed in June 1700 by John Reid printer, and are to be sold at John Vallange's, Mrs. Ogstoun's and Thomas Carruthers stationers in Edinburgh, their shops,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>[1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: George Dempster.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153899:1" rendition="simple:additions"/>
+            <p>THE PRODIGAL RETURNED TO SCOTLAND, OR, <hi>A Letter,</hi> Writen by a Gentleman, to his Friend at <hi>Montroſe,</hi> Wherein he Repreſents, <hi>The Lover's Warfare, the vanity of repoſing Confidence in Rich</hi> Friends, <hi>a ſhort Hiſtorie of his own Misfortunes, the deſireableneſs of Converſation,</hi> And laſtly, <hi>the true Character of Magnanimity, and a noble Ambition, and the Uncertainty and Contempt of Riches.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Hebrews, 12 Chap. 7 &amp; 8 Verſes.</hi>
+               </bibl>
+               <p>For whom the Lord loveth He Chaſteneth, and Scourg<g ref="char:EOLhyphen"/>eth every Son whom he receiveth.</p>
+               <p>If ye endure Chastening, GOD dealeth with you as with Sons: for what is he whom the Father Chaſteneth not? But if ye be without Chaſtiſement, whereof all are Partakers, then are ye Baſtards and not Sons.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>James 2 Chap. 15 &amp; 16 Verſes.</hi>
+               </bibl> If a Brother or Siſter be Naked, and deſtitute of dayly Food, and one of you ſay unto them, depart in Peace, be you Warmed and Filled: Not<g ref="char:EOLhyphen"/>withstanding ye give them not thoſe things which are needfull to the Body; What doth it Profit?</q>
+            <q>
+               <bibl>
+                  <hi>1. Epiſtle General</hi> of <hi>John, 2 Chap. 15 Verſe.</hi>
+               </bibl> Love not the World, neither the things that are in the World; If any Love the VVorld, the Love of the Father is not in him.</q>
+            <q>
+               <hi>Dulcia non meruit, qui non guſtavit amara.</hi>
+            </q>
+            <q>
+               <l>Si quid noviſti rectius</l>
+               <l>Candidus imperti; ſi non, his utere mecum.</l>
+            </q>
+            <p>EDINBURGH, Printed in <hi>June</hi> 1700 by <hi>John Reid Printer,</hi> and are to be Sold at <hi>John Vallange</hi>'s, Mrs. <hi>Ogſtoun</hi>'s and <hi>Thomas Carruthers</hi> Stationers in <hi>Edinburgh,</hi> their Shops</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:153899:2"/>
+            <pb facs="tcp:153899:2"/>
+            <head>
+               <hi>THE EPISTLE DEDICATORY</hi> To the Virtuous and Honourable Young Gentlemen attending the Ho<g ref="char:EOLhyphen"/>nourable Faculty of <hi>ADVOCATS,</hi> And Others who have their Dependance upon the <hi>Par<g ref="char:EOLhyphen"/>liament-Houſe,</hi> the Seat of Adminiſtration of Juſtice at <hi>Edinburgh,</hi> my Fellow Commerads and Acquaintances.</head>
+            <lg>
+               <l>Ye juſtly challenge all Reſpect and Love</l>
+               <l>From me, who do in that ſame Body move</l>
+               <l>With you, who by the <hi>Pen</hi> and <hi>Ink</hi> Command</l>
+               <l>Th' attendance here of Nobles of the Land.</l>
+            </lg>
+            <lg>
+               <l>Here by this Letter I preſent you <hi>Love,</hi>
+               </l>
+               <l>How richeſt Friends <hi>Unnatural</hi> oft do prove;</l>
+               <l>How I have run a little piece of Fate</l>
+               <l>By raſh procedure, and my now Eſtate:</l>
+               <l>
+                  <hi>Sweetneſs of Converſe,</hi> and the <hi>Divine Man</hi>
+               </l>
+               <l>
+                  <hi>Contempt</hi> of <hi>Riches</hi> hereby you may Scan.</l>
+            </lg>
+            <lg>
+               <l>The Matters Flat, Unpoliſh'd; but 'tis true:</l>
+               <l>Receive it kindly in it's Nat'ral hew:</l>
+               <l>I have not <hi>Homer</hi>'s, <hi>Pindar</hi>'s, <hi>Virgil</hi>'s flight<hi>'s</hi>
+               </l>
+               <l>
+                  <hi>Dryden</hi>'s nor <hi>Cowley</hi>'s, theſe Terreſtrial Lights;</l>
+               <l>Neither could I by this rude, vulgar Letter</l>
+               <l>Better things write than taught me GOD and Nature:</l>
+               <l>I have not <hi>Cicero</hi>'s nor <hi>Demoſthenes wits,</hi>
+               </l>
+               <l>Nor fluent Raptures and Diviner fits</l>
+               <l>Of a Commanding Eloquence, to dare</l>
+               <pb facs="tcp:153899:3"/>
+               <l>And damp the Vulgar, elſe you'd had a Share:</l>
+               <l>Nor Soaring Flights of Poetry to give,</l>
+               <l>Or write with more Succeſs than I can Live.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Prodigal Returned,</hi> receive with Charms,</l>
+               <l>Of Love, and take him kindly in your Arms;</l>
+            </lg>
+            <lg>
+               <l>For as the <hi>Romans</hi> by their <hi>Wit</hi> and <hi>Senſe,</hi>
+               </l>
+               <l>More than by <hi>Force,</hi> contriv'd a ſtrong Defence;</l>
+               <l>So <hi>Love</hi> and <hi>Friendſhip</hi> by Myſterious Arts,</l>
+               <l>Vanquiſh the hardeſt <hi>Adamantine Hearts.</hi>
+               </l>
+            </lg>
+            <closer>
+               <salute>GENTLEMEN,</salute>
+               <signed>
+                  <hi>This is all from Your Humble Servant,</hi> George Dempſter.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:153899:3"/>
+            <head>To my Familiar and In<g ref="char:EOLhyphen"/>timate at <hi>Montroſe.</hi>
+               <note place="margin">
+                  <hi>Kirktounhill, May</hi> 24th, 1700.</note>
+            </head>
+            <opener>
+               <salute>Deareſt Commerad,</salute>
+            </opener>
+            <p>THough <hi>I</hi> have had as yet but little Correſpondence with you, yet <hi>I</hi> have found ſo great Satisfaction already in your Deſire<g ref="char:EOLhyphen"/>able <hi>Company,</hi> that the thoughts and Conſideration thereof, have influenced me to offer my Reſpects to you by a <hi>Letter.</hi> Some (perhaps) will be apt to carp at my putting the ſame to the Preſs; But who ever wrote yet with that Succeſsfulneſs, as not to meet with Cenſures: And I did not deſign to Emit it to publick View, in hopes of obtaining the Suffrage and Applauſe of others, (ſeeing it wants the Ornament and Flouriſhes of <hi>Eloquence,</hi> which might make it more pleaſant and Deſireable) but to ſatisfie partly the Curioſity of ſome of my Acquaintances and your ſelf: And if <hi>I</hi> obtain their and your Approbation, I ſhall not be grieved, whether it be Condemned or Commended by the <hi>Multitude.</hi>
+            </p>
+            <p>The World is a <hi>Comedy,</hi> where every Man acts that part which Providence hath aſſigned him, and ſeeing my <hi>Talent</hi> conſiſteth moſt<g ref="char:EOLhyphen"/>ly in Writing, (though very meanly) I thought fit to produce and give you a Swatch of i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and not to keep it tyed as in a Napkin, or to lock it up in the dark like a Candle ſet under a Buſhel. For <hi>Man</hi> is not born to be only uſeful and helpful to himſelf, but alſo to diſperſe his Gifts, (as GOD has bleſſed him) to the Common Good of others.</p>
+            <p>Though you are more Capable to give than to receive an advice from me, I have nevertheleſs uſed that Freedom to Write you my Thoughts anent the ſeveral <hi>Occurrences</hi> of <hi>Providence</hi> which I have already been Tryſted with; (I ſhall not wiſh you to be ſo Un<g ref="char:EOLhyphen"/>happy as to meet with the like) and what my carriage was, or ſhould be, if <hi>I</hi> be tryſted with worſe any time hereafter.</p>
+            <p>Dear Soul,</p>
+            <p>It's impoſſible to ſecure our ſelves againſt <hi>Envy</hi> and <hi>Competition,</hi> for diſtance of Place cannot Protect us from her Malignity; You have a
+<pb n="2" facs="tcp:153899:4"/> clear inſtance of this in the <hi>Trium<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>viri</hi> at <hi>Rome,</hi> (whereof <hi>Marcus Antonius</hi> was one) who rather choſe to endure the greateſt hard<g ref="char:EOLhyphen"/>ſhips, before one of them would Succumb in Power to another, and ſo it came to paſs; For <hi>Cleopatra</hi> with her Beauty Vanquiſhed the Magnanimous Soul of <hi>Marcus Antonius,</hi> and made his Valour become Eff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>minate, by giving way to his <hi>Love Paſsions,</hi> And ſhe (that ſhe might not adorn the <hi>Romans</hi> Triumph and Victory, by her being carried a Captive) <hi>Applyed Snakes to her Body to draw her Blood, and to prevent the comeing of Death by her Preparation.</hi> So you may ſee, That three Suns could not all ſhine at once; For ſuch is the Ambition of ſome, That to proſecut their bad deſigns, they would hire the Devil himſelf, before they could not get them effectuate.</p>
+            <p>But on theſe Occaſions, (where <hi>Malice</hi> rather than <hi>Emulation</hi> carrys the Van) we ſhould (as <hi>Seneca</hi> adviſes) with flying colour manage our Retreat. <hi>Proverbs</hi> Chap. 27. Ver. 4. <hi>Wrath is Cruel, and Anger is Outragious: but who is able to ſtand before Envy.</hi> 'Tis hard to diſcern an <hi>Honeſt Man;</hi> for what was the Subject of this days Conference, will be the Subject of ane Accuſation to Morrow, and that ſecret which we did but la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely Depoſitate in Our <hi>Friend</hi>'s Breaſt, will ſhortly fly in our Faces from the Mouths of our <hi>Enemies:</hi> But though our <hi>Friend</hi> were Real and Secret, yet his inconſtancie may make theſe either no Ver<g ref="char:EOLhyphen"/>at all, or ineffectual and Unprofitable Ones: Such is the baſeneſs of ſome, who, for a ſmall Compliment, will be Tempted to betray <hi>Secrets,</hi> to become <hi>Rivals</hi> to their Friends, who put Confidence in them, and aſſiſting to their <hi>Enemies;</hi> Such a Man was the Perfidious <hi>Judas,</hi> who betrayed our Saviour for 30 Talents. And that which Aggravates the crime of ſuch, is becauſe (poſſibly) they are our <hi>Deareſt,</hi> (yet Hypocritical) <hi>Familiar Friend,</hi> who acts thus Treach<g ref="char:EOLhyphen"/>erouſly under colour and a pretext of <hi>True Love.</hi> After this manner, The famous Renown'd <hi>Caeſar</hi> was dealt with, who with all the Pru<g ref="char:EOLhyphen"/>dence of his <hi>Court,</hi> could not avert his Maſſare in the <hi>Senate,</hi> eſpecially being contrived by his Confident <hi>Brutus.</hi>
+            </p>
+            <p>And when our own <hi>Relations,</hi> (neither out of <hi>piety</hi> or <hi>naturality</hi>) can<g ref="char:EOLhyphen"/>not conceal nor obliterate our <hi>offences or miſfortunes;</hi> How may we expect to be made the <hi>vox populi,</hi> eſpecially when ſuch miſrepreſntati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s flow from ſuch a <hi>Fountain;</hi> Which (commonly) are more eaſi<g ref="char:EOLhyphen"/>ly believed and Intertain'd, when they are vented by ſuch, whom others may be ap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to believe, (<hi>through</hi> ignorance of their <hi>diſpoſition</hi> who
+<pb n="3" facs="tcp:153899:4"/> ſpeak thus) That they talk ſo as having no <hi>diſlike</hi> or <hi>prejudice</hi> againſt us. But I being perſwaded you know perfectly well what, and of whom I write this, I leave them to their own <hi>fate,</hi> and the juſt re<g ref="char:EOLunhyphen"/>ward of <hi>providence.</hi>
+            </p>
+            <p>As <hi>diſtreſs</hi> makes men run, where they may expect he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p; And as that muſt be the ſecureſt harbour, to which diſtreſteſt veſſels make their application; So I fly to the choiſeſt of your wholſome advices as the only <hi>Aſylum</hi> and Sanctuary for my aid and ſafety.</p>
+            <p>If <hi>miſfortunes</hi> could make men <hi>Philoſophers,</hi> as <hi>Afflictions</hi> are ſaid to make <hi>real Chriſtians,</hi> I might expect to become wiſe by experiencing ſo many; But ſuch is the innate rudeneſs and dullneſs of my <hi>genius</hi> that it cannot look through the right end of the perſpective, and ſee the Wiſe hand of <hi>Providence</hi> directing them.</p>
+            <p>Deareſt Familiar,</p>
+            <p>I know the <hi>Premiſſes</hi> and Preceeding Diſcourſe ſtand in no need of a <hi>Commentar</hi> to Explain the Genuine Senſe thereof, you knowing exactly well, that it is not propper to be too plain by Diſcovering my Thoughts to all, who may have Occaſion to ſee me in <hi>Print,</hi> but <hi>I</hi> have Endeavoured alſe much as poſſible <hi>Clearneſs</hi> and <hi>Ingenui<g ref="char:EOLhyphen"/>ty.</hi> And becauſe you have (poſſibly) met with the like Diſpenſa<g ref="char:EOLhyphen"/>tion of Providence in your <hi>Amours,</hi> that I met with ſome Years ago I have therefore (to comfort you and me) taken ſo much Leaſure from my other Buſſineſs, as to ſet apart one Afternoon, and write you my following Thoughts.</p>
+            <p>The Deſign of <hi>Lovers</hi> ſhould be als Latent as the Springs which do inwardly move Mechanick Machins; if you either conſider the Nature of it, or the Inconveniencies that attend a Diſappointment, I fancie <hi>Love</hi> proceeds from a Vehement deſire of the <hi>Object,</hi> in hopes of a full Satisfaction of pleaſure and content therefrom; Which plea<g ref="char:EOLhyphen"/>ſure we fondly dote upon, and this <hi>Love</hi> proceedeth from <hi>Contemplation.</hi>
+            </p>
+            <p>But <hi>Love</hi> may be compared to <hi>Hunger,</hi> which though it is once Satisfied, continues no longer ſo, than it hath for a litle time preyd upon what was at firſt preſented to it: And like the fire, is ſo far from being Satiſfied with what is thrown into it, that it is by that new Fewel, not only enabled to deſtroy, but likewiſe forc'd to ſeek more Aliment for ſuſtaining it's waſting Rage.</p>
+            <p>
+               <hi>Pleaſure</hi> in Men is ane <hi>Act of the Fancy,</hi> and Conſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quently of the
+<pb n="4" facs="tcp:153899:5"/> 
+               <hi>Soul,</hi> and certainly theſe pleaſurs which do more immediatly affect the ſoul muſt needs be the moſt <hi>Active pleaſures,</hi> and ſuch are thoſe which ariſe from <hi>Contemplation:</hi> For <hi>Contemplation</hi> does often drive our ſouls into <hi>Extaſies,</hi> and is ſo charming, that it may be rather ſaid to <hi>Raviſh</hi> then <hi>Pleaſe,</hi> committing ſo open a <hi>Rapture</hi> upon our Souls, that it pulls them almoſt into a State of <hi>Separation.</hi>
+            </p>
+            <p>Dear and kind Soul</p>
+            <p>You have known theſe things (doubtleſs) by ſad experience, if ever <hi>Love</hi> had the Commanding Faculty of your Soul; For by <hi>Love</hi> we go neareſt the <hi>Image of GOD</hi> and the <hi>Imitation</hi> of our <hi>Savior.</hi> 4. <hi>Chap.</hi> 1 Epiſt. general of <hi>John</hi> 7 and 8 verſes. <hi>Beloved, let us love one another, for love is of GOD; And every one that loveth is born of GOD, and knoweth GOD. He that leveth not, knoweth not GOD: For GOD is Love.</hi>
+            </p>
+            <p>The greateſt Inconveniency that attends <hi>Lovers,</hi> while they Sail upon ſo <hi>
+                  <g ref="char:V">Ʋ</g>nknowen</hi> and <hi>Tempeſtuous Seas,</hi> as the <hi>inſtability</hi> and <hi>unconſtancie</hi> of a <hi>Woman's fancy,</hi> are the <hi>falſe Reports</hi> whereunto they may be ex<g ref="char:EOLhyphen"/>poſed by <hi>Buſſie Bodies,</hi> who may tale a Thouſand <hi>Lies</hi> of them: For who can promiſe that they ſhall never drop one word in <hi>Paſſion,</hi> act any thing without a <hi>previous Deliberation,</hi> or never fall under <hi>Miſinformati<g ref="char:EOLhyphen"/>on;</hi> And which is yet worſe, when <hi>Miſrepreſentations</hi> are forged a<g ref="char:EOLhyphen"/>gainſt them, they are not acquainted by ſuch as either give or receive them, and ſo their <hi>Defence</hi> becomes wholly imprſtable.</p>
+            <p>But why need I expect to teach you what <hi>Love</hi> is, or what diſcour<g ref="char:EOLhyphen"/>agments <hi>Lovers</hi> may propoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to themſelves before they arrive at the <hi>conqueſt,</hi> ſeing you have traced thoſe <hi>Paths</hi> far more ſuccesfuly than I have done; And it has added no ſmall Commendation to your <hi>Character,</hi> That <hi>Fancy</hi> rather than <hi>Ambition</hi> or <hi>Riches</hi> were your choice: For what could you have propoſed reaſonably to your ſelf in ſo doing; For litle can defend us againſt our <hi>preſent neceſſities,</hi> and nothing can defend againſt the <hi>Future:</hi> And when Riches are piled up, they ſerve either to ſatisfie <hi>Nature,</hi> and that is eaſie, or to ſatisfie <hi>Fancy,</hi> and that is Impoſſible. <hi>Riches</hi> are realy (though they remain) but like the <hi>Manna</hi> in that 16 <hi>Chap.</hi> of <hi>Exodus</hi> 18 <hi>verſe Whereof he that gathered much had nothing over, and he that Gathered litle had no Lack.</hi> Eccleſi<g ref="char:EOLhyphen"/>aſties 5 <hi>chap:</hi> 10 and 11 and 12 verſes. <hi>He that Loveth ſilver, ſhall not be ſatisfied with Silver; nor he that Loveth abundance with Increaſe: this it alſo Vainity.</hi> When goods increaſe, they are increaſed that eat
+<pb n="5" facs="tcp:153899:5"/> them: And what good is there to the Owners thereof, ſaving the beholding of them with their Eyes? The ſleep of the Labouring Man is Sweet, whether he eat little or much: but the <hi>abundance</hi> of the Rich will not ſuffer him to ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ep.</p>
+            <p>Such was the Inſatiat deſire of that Rich King <hi>Craeſus,</hi> (who wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaid to have had Mountains of Gold and Vaſt Treaſures) that he took a great deal of pleaſure to ſee his Gold, and thefore called in for all his <hi>Exchequer</hi> at once; whereupon his Subjects finding him to have ſo Vaſt a deſire for Gold, conſpired againſt him and Murthered him, And when he was Dead, they were pleaſed thus Reproachfully to Triumph over him, Saying, he Loved Gold while he was on Life, let him once have his fill of it before he be burried, and accordingly they melted Gold and poured it down his Throat, that it might be knowen how little a Portion of all his great Treaſure would ſatisfie him when <hi>Dead,</hi> when all his Dominions and the Riches therein could not Satisfie his vaſt Appetite when he was <hi>Living. Solon.</hi> gave him this Advice, when he Enquired at him if he thought him a happy Man, (which Sentence made him ſet King <hi>Cyrus</hi> at Liberty, when he was Captivated by him) He gave him this Anſwer, That no Man could be called happy till Death came, as you have it pret<g ref="char:EOLhyphen"/>tily expreſſed by <hi>Invenal</hi> thus <hi>ultima Semper</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>Expectanda dies homini, Dici<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Beatus,</hi>
+               </l>
+               <l>
+                  <hi>Ante obitum nemo, ſuprema<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> funera debet.</hi>
+               </l>
+            </q>
+            <q>
+               <l>The day of Death ſhould ſtill be thought upon,</l>
+               <l>And no Man can be happy till it come.</l>
+            </q>
+            <p>Deareſt Familiar,</p>
+            <p>If at any time hereafter, either Fortunatly or Unluckily you ſix your <hi>Contemplation</hi> upon a <hi>Woman,</hi> whom Providence hath ſtored with great Plenty of <hi>Earthly Bleſſings</hi> and a Number of Opulent Friends and cannot purchaſe the Object of your deſires, neither by <hi>Moyon, Civility,</hi> nor <hi>Love,</hi> let the <hi>Flame</hi> of your <hi>Fancy</hi> decay. Moderatly as at firſt it took Vivacity, and let nothing here below be able to Cruſh or dampt your Spirit: <hi>Proverbs</hi> 17 Ch. 22 Verſe. <hi>A merry Heart doth good like a Medecine; but a broaken Spirit dryeth the Bones.</hi> But other means and Methods might be Exerced, which probably might take effect and influence the Heart of a <hi>Generous Lady</hi> to be Reciprocally Loving; ſuch as <hi>Fluent Oratory<g ref="char:punc">▪</g>
+               </hi> (whereby <hi>
+                  <g ref="char:V">Ʋ</g>liſses</hi> was preferred to
+<pb n="6" facs="tcp:153899:6"/> 
+               <hi>Ajax</hi>) or by paying continual ſacrifices for her at the <hi>Altar</hi> in our Devotions: For who knoweth but GOD would hear our Prayers. Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Romans</hi> were als Famous for their <hi>Eloquence</hi> as for their <hi>Conduct</hi> in W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r and Arms, and overcame their Enemies als freq<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ently by their <hi>Tongues</hi> as with their <hi>Swords:</hi> Their Generals <hi>Orations</hi> were ſo perſwaſive, and had ſo great influence upon them (very frequently) That they enflamed their Armies with a deſire and hope of <hi>Victory,</hi> and made them attack their Enemies with greateſt <hi>Roſolution.</hi>
+            </p>
+            <p>But ah! now in our Degenerate Age, when <hi>Literature</hi> and com<g ref="char:EOLhyphen"/>mon principles of <hi>Magnanimity</hi> and <hi>Vertue</hi> are like to be quite rooted out by-ſupine negligence or ignorance, I know not how an aſpiring Spirit can raiſe himſelf to preferment; when cloged with the want of a Competent Patrimony; whereby he might Cultivate his genius and aim at good things. For as the Poet <hi>Juvenal</hi> Expreſſes it, <hi>Virtutibus obſtat, Res anguſta Domi;</hi> So, many good Spirits are either loſt for want of Education, Or, if they have the Fortune to attain to ſome ſmatter of Learning, they muſt ſtop there, either becauſe Providence layes it not in their way to come by better, by reaſon of the obſcurity of their Birth (which is commonly attended with Poverty) or that if they have Friends or Bretheren als capable to ſerve them as <hi>Joſeph</hi> was to ſerve and relieve his Bretheren, yet ſuch a Veneration (or rather A<g ref="char:EOLhyphen"/>doration) they have to the periſhing Riches of this World, that they cannot get their hearts (which are glewed thereto) ſeparate from them, or perſwade them to part with any thing, though it would both preſerve the duration and grandure of their own Names; and (pro<g ref="char:EOLhyphen"/>bably) raiſe their neceſſitous Friend both to <hi>Honour</hi> and <hi>Preferment.</hi>
+            </p>
+            <p>
+               <hi>Deareſt Familiar,</hi>
+            </p>
+            <p>I could make an appoſite Application of this to my own <hi>Friends</hi> and <hi>Relations,</hi> who, if they had ſmiled upon me as <hi>Joſeph</hi> did upon his Bretheren, or as the Father of the <hi>Prodigal Child,</hi> I would not have had ground to be emulous of, or envy any Man's happineſs in your <hi>City.</hi> But Bleſſed be GOD, I have been wonderfully provided for from my Birth by the wiſe hand of Providence; and particularly from the beginning of the <hi>late Revolution in</hi> the year 1689, at which time my deareſt <hi>Parent</hi> was neceffi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at to give over his Charge of the Mi<g ref="char:EOLhyphen"/>niſtry, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing then miſfortunatly trvſted to Preach and live in the Weſt where the <hi>Clergy</hi> were firſt Thurſt out, and met with the firſt burnt of Perſecution.</p>
+            <pb n="7" facs="tcp:153899:6"/>
+            <p>In the year 1690 I applyed my ſelf to my Studies, and entered the Colledge of <hi>Edinburgh,</hi> where I continued with als much Approbation, (I may ſay it without vanity) as any one of my Rank or Character could expect, untill <hi>February</hi> 1696: And I wanted not good occaſions for improving my ſelf, it being my good Fortune to have my con<g ref="char:EOLhyphen"/>verſe and private Application of my Studies with two Learned Men who were my Regents, <hi>Viz.</hi> Mr. <hi>L. D.</hi> and <hi>Mr. Alexander C.</hi> to whom I ow all the Learning I have, nay Life it ſelf; For when my Re<g ref="char:EOLhyphen"/>lations at <hi>Montroſe</hi> would not be at the pains to breed me a Merchant (for which I ow them very many thanks, who like <hi>Joſeph's</hi> Bretheren, deſigning my hurt, have done me good) Mr. <hi>L: D:</hi> took me by the hand and keept me at the Colledge, may the Heavens reward him for it.</p>
+            <p>But as a <hi>Ship</hi> at Sea, when all her Sails are aloft in a great ſtorm, deſpiſes to be managed either by the Prudence of of her Mariners or their Prayers, unleſs almighty prividence order it; So <hi>I</hi> by the un<g ref="char:EOLhyphen"/>expected death of my Parent (who dyed at <hi>Edinburgh</hi> in January 1694) being left to the Propenſity of my own inclinations; and my neareſt Relations, upon ſeveral Addreſſes made to them for their Counſel and Advice (and not for their means) not having honour<g ref="char:EOLhyphen"/>ed me with any return; Yea and when <hi>I</hi> came North to viſite them, they not having any due and Chriſtian regaird to my then preſent Circumſtances; I did upon the 22d of <hi>January</hi> 1696 (when I wanted but two Moneths to compleat my Courſe at the Colledge) take my Voyage for <hi>Flanders,</hi> where I continued only for 9 Months, the Coun<g ref="char:EOLhyphen"/>try Air not ſuiting my Nature and Diſpoſition.</p>
+            <p>This I confeſs was the greateſt piece of <hi>folly,</hi> That my Relations can upbraid me with; and although my inclinations did not lead me to have followed this preſent <hi>Government</hi> (if I had proſecuted my Stu<g ref="char:EOLhyphen"/>dies) and that all the Prodigality I had committed was but the miſ<g ref="char:EOLhyphen"/>pending of theſe 9 Moneths, and not any Patrimony; Yet ſuch was the diſpleaſur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they had conceived againſt me for it, or at leaſt they made this pretext (perhaps of purpoſe to keep in their pious affecti<g ref="char:EOLhyphen"/>on and Kindneſs which I as their Relation might have expected, or which might have prevailed with and influenced them to be gener<g ref="char:EOLhyphen"/>ous) That my <hi>two Patrui</hi> were pleaſed to ſay and Expreſs themſelves thus Charitably to others, who were imployed by me to interceed for me.</p>
+            <pb n="8" facs="tcp:153899:7"/>
+            <p>My Uncle Mr. <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Divine,</hi> (who ſhould have had a greater R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpect <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Acts of <hi>Charity</hi> and been zealous and forward for my further Adv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt in <hi>Lit<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ature</hi>) was pleaſed to ſignifi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his kindneſs (ſome two three years before I went from the Colle<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge) by the following words, <hi>Viz</hi> That he wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld not Contribute the 19 part of a farthing for my Proſecution of my Studies; although the p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecedent year both he and his B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>other <hi>Alexander</hi> at <hi>Montroſe</hi> deſired me to inform Com<g ref="char:EOLhyphen"/>miſſar <hi>Wiſeheart</hi> my Mother Brother, that they were content yearly to beſtow a Guinie for that effect: What encouragment then had I to follow them, if the conſideration of my Circumſtances had not indu<g ref="char:EOLhyphen"/>ced me to it.</p>
+            <p>And at my return from <hi>Flanders,</hi> meer neceſſity (rather than choice) ob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iged me to come to them to ſee what they would beſtow, or if they w uld ſmile upon me the <hi>Prodigal.</hi> But I found them of another T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er and of a quite different Diſpoſition with that of <hi>Joſeph</hi>'s or the <hi>Prodigal</hi>'s <hi>Father:</hi> for having but ſtayed but one night in my Uncle Mr. <hi>John's</hi> Houſe at <hi>Monufuith</hi> (although he knew perfectly well I wanted whereupon to ſubſiſt) He upon the Morrow als earneſtly as a Prince would expell an <hi>Hoſtile Enemy</hi> out of his Dominions, ſent me a pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k<g ref="char:EOLhyphen"/>ing, without ſo much as a kiſs of his hand.</p>
+            <p>But any indifferent Perſon reading this, (may be) will be apt to ſay in his Defence, That he did this, not that he thought himſelf not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed out of (<hi>barity</hi> and <hi>naturality</hi> to have cheriſhed me, but becauſe of my hurting of my ſelf and leaving my ſtudies, and of purpoſe to harden me by <hi>affliction.</hi> In anſwer to this objection pleaſe conſider, That he ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld have firſt chall<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eged me, and then ſmiled upon me.</p>
+            <p>But <hi>I</hi> cannot deny, but that he is (otherways) a Man of <hi>Good parts Learning and Piety;</hi> but (it ſeem's) when the <hi>Graces</hi> and <hi>Vertues</hi> which he enjoys were a dealing, he has been als much Hurried with joy of the conqueſt of a few <hi>Talents</hi> as the <hi>Roman Generals</hi> were when they rod in Triumph with their <hi>Opima Spolia,</hi> and (Poſſibly then) he ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, in his haſt loſt out of the Number of the <hi>Foundamental principales of Religion</hi> two of them <hi>Viz. Love</hi> and <hi>Cha<g ref="char:EOLhyphen"/>rity</hi> (perhaps) by the way.</p>
+            <p>I cannot but Admire how he never has fallen upon tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 58 <hi>Chap.</hi> of <hi>Iſaiah</hi> 7.8 10. and 11. verſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Is it not</hi> (Iſaiah <hi>ſpeaking of Charity) to deal they bread to the Hungry, and that thou bring the poor that a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> caſt out, to thy Houſe; When thou ſeeſt the Naked, that thou cover him, and
+<pb n="9" facs="tcp:153899:7"/> that thou hide not thy ſelf from then own Fleſh's Then ſhall thy light break forth as the Morning, and thine health ſhall Spring forth ſpeedily: And thy Righteouſneſs ſhall go before thee, the Glory of the LORD ſhall be thy Reward,</hi> 10 and 11 verſes. <hi>And if thou draw out thy Soul to the Hungry, and Satisfie the Afflicted Soul? Then ſhall they Light riſe in obſcurity, and thy Darkneſs as the Noonday<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> And the LORD ſhall guide thee Continvally, and ſatiſfie thy ſoul in draught, and make fat thy Bones; And thou ſhalt be like a watered Garden, and like a ſpring of Water whoſe waters fall not</hi> 1. Epiſtle General of <hi>John</hi> 3 <hi>Chap.</hi> 17 verſes. <hi>But whoſo hath this World's good, and ſeeth his Brother have need, and ſhutteth up his Bowels of Compaſ<g ref="char:EOLhyphen"/>ſion from him, how Dwelleth the Love of GOD in him?</hi>
+            </p>
+            <p>But to paſs in ſilenc how much he has in him (beſides the want of Charity) that may eclipſe his other Enduments and Orna<g ref="char:EOLhyphen"/>ments of his Life, And that he wants not enough of <hi>Pride</hi> (which does neither become a <hi>Miniſter</hi> not a <hi>Chriſtian</hi>) which is ſaid to come before <hi>Deſtruction;</hi> and a haughtie ſpirit before a fall; I ſhall not expreſs how P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ejudicial, it has been to him to have been br<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d at <hi>Court,</hi> where<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom he has taken ſo much of the <hi>Leſſon of Pride</hi> with him. But ſeeing <hi>Wiſe Providnce</hi> (I cannot tell why) has ſufficiently ſent a croſs and an <hi>Humbling circumſtance</hi> to his own Family, by the Afflicting his ſecond Son <hi>John</hi> (who has paſsed his Courſe at the Colledge) with the want and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re uſe of his <hi>Reaſon,</hi> I ſhall not add affl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction to the afflicted; Though he dealt far otherwayes with me.</p>
+            <p>But as GOD never ſends a <hi>Croſs</hi> without the leaſt tincture of <hi>Sweetneſs</hi> and <hi>Comfort,</hi> ſo I (when I had paſſed through the <hi>Terri<g ref="char:EOLhyphen"/>tories</hi> of his <hi>Inhumane Barbarity and Selfiſhneſs</hi>) at <hi>laſt</hi> arrived at a more ſafe Harbour, and in ſtead of a <hi>Moroſe</hi> and <hi>Serley</hi> carrage (which I met with from him then and lately in your City) I found a per<g ref="char:EOLhyphen"/>ſon of a <hi>Tranquill Hoſpitable</hi> and <hi>Charitable Diſpoſition. viz.</hi> my <hi>
+                  <g ref="char:V">Ʋ</g>ncle in Law Mr.</hi> H. L. Miniſter at <hi>Dunnightin,</hi> who was Generouſly in<g ref="char:EOLhyphen"/>clined to quarter me for 3 Moneths till the Storms of the Win<g ref="char:EOLhyphen"/>ter were paſſed, and carried ſuch a reſpect towards me, that he hon<g ref="char:EOLhyphen"/>oured me as if I had been a Son of his own Family. If it were not Tedious to decant in his praiſes, I would (as I am obliged) Proclaim his Bounty towards me als much as I have Diſcommend<g ref="char:EOLhyphen"/>ed the procedure of the former. But I being confident, that any in<g ref="char:EOLhyphen"/>different man reading this ſubject, and reflecting upon my <hi>Misfor<g ref="char:EOLhyphen"/>tunes</hi> (which rendered me then an object of their Benevole<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce,
+<pb n="10" facs="tcp:153899:8"/> which is the ſaddeſt thing that can befall a man here below to be in ſuc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Circumſtances as may make him Troubleſome to his Friends) will Diſapprove of the <hi>carriage</hi> of the <hi>former</hi> and highly approve and commend the <hi>Hoſpitality</hi> of the <hi>Latter.</hi>
+            </p>
+            <p>By the ſaid Mr. <hi>H. L.</hi> his Advice, <hi>I</hi> was prevailed upon to come the lenth of <hi>Montr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe</hi> to ſee my Uncle <hi>Alexander;</hi> (who is a Mer<g ref="char:EOLhyphen"/>chant about 24000 merks of Stock) But <hi>I</hi> being formerly acquainted with the Nature and Diſpoſition of his <hi>Bedfellow,</hi> who would hardly Smile upon me even when in <hi>Proſperity;</hi> I thought it moſt proper to take up my Lodging in another Houſe <hi>viz</hi> G. C. whom I ſent to him, and did informe him of my Circomſtances: But (it ſeems) he had ſo litle a Compliment to beſtow, or rather ſo little and <hi>Nar<g ref="char:EOLhyphen"/>row</hi> a <hi>Heart</hi> to give, That he ſent me back this return with him, That he would not give me on Two pence to carry me on the Rod; or to keep me from Starving.</p>
+            <p>Pardon me for this <hi>Digreſsion,</hi> and for giving ſo long a <hi>Hiſtory</hi> of my <hi>Misfortunes;</hi> but the true reaſon <hi>I</hi> did it upon was to let thoſe who may be curious to know what was or may be the reaſon. That my Relations did not then, nor yet do give me the <hi>Favourable Aſpect</hi> of their <hi>Countenance;</hi> Therefore, I thought ſit to lay op<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n to them the Myſtery of my Offence, and let others Judge of my <hi>Merits</hi> as they think fit.</p>
+            <p>But now I hope. That as the <hi>Sun</hi> in a Rainy Day after the Rain is paſt, becometh much clearer than formerly he was, So I may be<g ref="char:EOLhyphen"/>come (out of the Furnace of my paſt <hi>Afflictions</hi>) both a better <hi>Chri<g ref="char:EOLhyphen"/>ſtian,</hi> and by ſad <hi>Experience</hi> a better <hi>Divine;</hi> And learn, That it is not the <hi>Miſerableneſs</hi> of the Condition of the <hi>Object</hi> but the <hi>Tenderneſs</hi> of the <hi>Compaſsionate</hi> and <hi>Simpathyſing Heart;</hi> that moves Men to Acts of <hi>Charity</hi> and <hi>Bounty.</hi> This is ſufficiently cleared by the forgoing Hi<g ref="char:EOLhyphen"/>ſtory. But <hi>vireſcit vulnere virtus.</hi>
+            </p>
+            <p>Some perſons, who, perhaps, cannot ſuffer to hear the <hi>Truth,</hi> will be apt (poſsibly) to ſay and Enquire, what neceſſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y was there for my Penning ſuch a <hi>Letter,</hi> or diſcovering, either my own Frailties, Miscarriages, or Misfortunes to the World, or the bad or good Treatment that I have met with from Friends, or that I have Loved without Succeſs; I will give them no other Anſwer, but that if it offend them by reading the ſame, ſo it pleaſed me to write it, and who can hinder the <hi>Preſs</hi> to ſerve Occaſions for Money.</p>
+            <p>Yet, Dear Friend, The moſt Convincing Motive that Excited
+<pb n="11" facs="tcp:153899:8"/> me to Write to you, was to provoke your Pen to write me an Anſwer, and to let you taſte how a ſweet a thing it is to Converſe by Inter<g ref="char:EOLhyphen"/>courſe of Letters; For as the <hi>Light</hi> not only makes us knowen to each other, but alſo renders us Mutually uſefull; So <hi>Converſation</hi> and <hi>Converſe</hi> does Whet and Adorn our Good Parts; and the moſt excellent Endowments, both of Nature, Induſtry, and Grace, would grow dull and Stupid, without Culture and Exerciſe. We may be Employed, though we be not all as <hi>Senators</hi> and <hi>Kings?</hi> every Wheel in a Watch hath its Operation in the Movement, without being all of them ſprings; So we, (who are not ſtrained and Oppreſſed with Buſineſs, and an Active courſe of Life ſo much that we cannot re<g ref="char:EOLhyphen"/>ſerve Vacant times of Leaſure, whileſt we expect the Returns and Tides of Affairs) may Commendably enough Speak and Write to one another without Cenſure of the <hi>Multitude.</hi> For I reckon not them who are readieſt to Cenſure <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hers, and to Diſpute upon every ſmall Occaſion, to be the moſt <hi>Knowing Men,</hi> but thoſe who Diſcourſe Patiently and Pertinen<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of things, and who ſpeak Modeſtly of them<g ref="char:EOLhyphen"/>ſelves, and are not in the leaſt Diſcompoſed with the Common Ac<g ref="char:EOLhyphen"/>cidents of Life, but that ſtand Unſhaken amidſt all Viſciſſitudes, and can with Moderation ſupport both <hi>Good</hi> and <hi>Adverſe Fortune.</hi>
+            </p>
+            <p>Dear Commerad,</p>
+            <p>As I ſpoke ſome place elſe where in this my <hi>Letter,</hi> That many good Spirits are loſt for want of Liberal Education: So there are als many <hi>Wits</hi> and <hi>Vituoſo</hi>'s cruſhed, and cannot Aſpire to great things fot want of Power: For I think, there is nothing which more Diſtin<g ref="char:EOLhyphen"/>guiſhes Man from Brutes, their Law and uſeleſs Appetites, than an <hi>Honourable</hi> and <hi>Noble Ambition,</hi> For <hi>Ambition</hi> cannot be Burried, Re<g ref="char:EOLhyphen"/>preſſed, or Damped, it may be, but never extinguiſhed. And (doubtleſs) <hi>Advancement</hi> is either Attributed to the fancy of the <hi>Advancer,</hi> or to Fate and Hazard: And in either of theſe eaſes, the perſon promoted is not Honoured, but his Fate.</p>
+            <p>I acknowledge, Men ſhould not be too Raſh, and take wrong means and Methods to be great, but do as <hi>Antiſtheneſs</hi> ſaid, who being de<g ref="char:EOLhyphen"/>manded <hi>quomodo ad rempublicam accedendum?</hi> How ſhould a Man Addreſs himſelf to publick affairs, Replyed, he ſhou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d do it as to come to the Fire, neither too nea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for fear of Scorching, not yet too far off, leaſt he be ſtarv'd with Cold; I know no Mediocrity I can
+<pb n="12" facs="tcp:153899:9"/> more deſervedly Recommend to you, whom I ſo ſincerely Love. You may apply this Allegory to another Senſe, well enough your ſelf.</p>
+            <p>Men ſhould not immoderatly preſs into Buſineſs, though it can<g ref="char:EOLhyphen"/>not be denyed that ſome Young perſons are of early hopes, and have come to Preferment very ſoon: May not men be early quali<g ref="char:EOLhyphen"/>fied and become great, if they be early fit for it: 'Twas wittily ſaid of one of the <hi>Scipio's</hi> (who was a Gentleman of early maturity) <hi>ſe ſat annorum babiturum ſi populus Romanus voluerit;</hi> That he ſhould be old (or wiſe) enough, if the People of <hi>Rome</hi> pleaſed; And accord<g ref="char:EOLhyphen"/>ingly they thought fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſend him General into <hi>Spain,</hi> which he reduced into a <hi>Roman</hi> Province by his Valour and Diſcretion, which other Generals who went there before him could not effectuat. Great men therefore or Rich men ſhould not like overgrown Trees, too much ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de the ſubnaſcent <hi>Plants,</hi> ane young <hi>Imps,</hi> who would grow modeſtly under their influence; But ſhould Receive, Protect and Encourage them. I confeſs it becomes not every one to aſpire, ſo it is Glorious to thoſe who are Accompliſhed for it: But if thoſe who have Qualified Genius, cannot attain to preferment, let them ſolace themſelves with this, that they be Accounted worthy of the ſame.</p>
+            <p>Dear Familiar,</p>
+            <p>The greateſt <hi>Rencounter</hi> that I ſuggeſt to my ſelf to meet with by my putting this <hi>Letter</hi> to the <hi>Preſs,</hi> and thereby conſequently expoſing it to the View of others, is the loſs of my two <hi>
+                  <g ref="char:V">Ʋ</g>ncles</hi> formery menti<g ref="char:EOLhyphen"/>oned, their Counte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ance and Favour, which I confeſs ſhould be very Sacred to me, in Reſpect they are my neareſt <hi>Relations:</hi> But if you or they (into whoſe hands thir Preſents may happen to come) weigh, and conſider how little <hi>I</hi> have been obliged to them, (Eſ<g ref="char:EOLhyphen"/>pecially when I ſtood moſt in need of their Kindneſs) and with what Diſreguaird they look'd upon my Exigent Circumſtances, with what ſtrangeneſs and indifferencie they nottice me, and as if <hi>I</hi> were not of their Blood, but of a baſer Extract; What Teſtimonies and Convincing Proofs of the little Reſpect they have for me, which they have but very lately, more clearly than Mathematically Demon<g ref="char:EOLhyphen"/>ſtrated by their Carriage; If you think any of theſe would not
+<pb n="13" facs="tcp:153899:9"/> rather have convinced me to inform their Neighbours and acquaint<g ref="char:EOLhyphen"/>ances (who fancy me to be their <hi>Favourite</hi> and a gainer by their good deeds) than to have impoſed upon them and cauſed them believe a lie; I remit that to your and their Determination.</p>
+            <p>For I hope 'tis not their <hi>Countenance</hi> (for they cannot (as you may learn by the preceeding Hiſtory of their Carriage towards me) part with one of the Thouſand to their deareſt and neareſt <hi>boſom Friends,</hi> let be to me) but <hi>GOD's Providence</hi> that w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll cauſe me come to be honoured and preferred: And if GOD think not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it to gratifie me with Riches, (as he has favoured and Bleſſed them) but rather to exerciſe my <hi>Patience</hi> by troubles and misfortunes, I hope he will ſpeak to me as he ſpeaks to the Church of <hi>Philadelphia</hi> in that 10th Verſe of the 3d Chap. of the <hi>Revelation? Becauſe thou haſt kept the word of my Patience, I alſo will keep thee from the hour of Temptation.</hi> 19 Verſe <hi>As many as I Rebuke I Chaſten.</hi> And if GOD in his wiſe Providence tryſt me at any time hereafter with Tryals and Croſſes, I pray he may alſo give me the Grace of Contentment with them, and as they be<g ref="char:EOLhyphen"/>come Familiar to me, ſo give me Grace not to repine at his Diſpenſ<g ref="char:EOLhyphen"/>ations, and may beſtow thoſe Heavenly Graces upon me where with St. <hi>Paul</hi> (as a Miniſter) was richly indued, as you may read in that 6 <hi>Chap:</hi> of the 2 Epiſtle of his to the <hi>Corinthians,</hi> 4, 5, 6, 7, 8, 9 and 10 <hi>Verſes. But in all things approving my ſelf in much patience in afflictions, in neceſſities, in diſtreſſes, in ſtripes, in impriſonments, in tumults, in labours in watchings, in faſtings, by pureneſs, by knowledge, by long ſuffering, by kindneſs, by the Holy-Ghoſt, by Love unfeignied, by the word of Truth, by the power of GOD, by the Armour of Righteouſneſs on the right hand and on the left, by honour and diſhonour, by evil report and good report: as deceivers, and yet true, as unknown, and yet well known: as ſorrowfull, yet alwiſe re<g ref="char:EOLhyphen"/>joveing: as poor, yet making many rich: as having nothing, and yet poſseſſing all things.</hi>
+            </p>
+            <p>
+               <hi>Deareſt Comerad.</hi>
+            </p>
+            <p>I cannot enough admire the inſatiate deſire and appetite that ſome have after <hi>Riches,</hi> and (like <hi>Craeſus</hi>) think never to get as much ſcrap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d together as keep up their <hi>Grandure;</hi> and for ſecuring them againſt <hi>Poverty:</hi> And which is yet worſe, when they have <hi>Wealth, Honour</hi> and <hi>Riches,</hi> ſo that they want nothing (except <hi>Contentment</hi>) which their heart could wiſh, yet GOD gives them not power to eat
+<pb n="14" facs="tcp:153899:10"/> thereof, as you may read it in that 2 V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſe of the 6 Chap. of <hi>Eccle<g ref="char:EOLhyphen"/>ſiaſte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> But I am ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e no rational Soul, who knows, or Dreams of the Treaſures that are in Heaven, will ſo far eſteem the Wealth of the World, as to ſet ſuch a high conceit upon it as rich <hi>Dives</hi> did, who would not let <hi>Lazirus</hi> have the crumbs that fell from his Table; for certainly if the rich Man's Wealth be his ſtrong City, and an high wall in his own conceit. <hi>Proverbs</hi> 18 Chap: 11 verſe. as the rich Man in the Goſpel who ſaid to himſelf, <hi>Soul, take thy eaſe, for my Barns are full and I have Wine, Corn, and Oyl laid up in ſtore for many years,</hi> yet that ſame n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght he was forc'd to dye and leave it all: I know no Argument to peaſwade them to the contrary but this, That the Scripture is expreſs enough againſt the loving of Moncy inordinarly. <hi>Proverbs</hi> 23 Chap: 5. Verſe. <hi>Wilt thou ſet thine ever upon that which is not? for riches certainlie make themſelves wings and flie away as an Eagle towards Heaven.</hi> 1 Epiſtle of <hi>Timothie</hi> 6 Chap: 16 Verſe. <hi>The Love of Mony is the root of all evil; and in the</hi> 17, 18 and 19 Verſes <hi>of the ſame Chapter you have the Apoſtles words againſt pride; Charge them that are rich in this World, that they be not high minded, nor Truſt in uncertain Riches, but in the Living GOD who gives us richly all things to enjoy: That they do good, that they be rich in good works, ready to diſtribute, willing to Communicate, lay<g ref="char:EOLhyphen"/>ing up in ſtore for themſelves a good Foundation againſt the time to come, that they may lay hold on Eternal Life.</hi>
+            </p>
+            <p>Since then <hi>Rich men</hi> are but called GOD's <hi>Stewarts,</hi> they ſhould diſperſe and diſpence with ſome of what God hath Bleſſed them with to the <hi>neceſſitous Soul;</hi> for they know not how long a Tack they have either of their Riches or Lives; for boaſt not thy ſelf of to morrow: for thou knoweſt not what a day may bring forth, <hi>Proverbs</hi> 27 Chap. Verſe 1. For <hi>Solomon</hi> gave a true Character of <hi>Earthlie enjoyments</hi> when he called them Vanity of Vanities; for from the hour we be<g ref="char:EOLhyphen"/>gin to poſſeſs them, they begin either to fly away from us or we from them, and amidſt our greateſt hopes they are either ſuddain<g ref="char:EOLhyphen"/>ly by a croſs Providence ſweept away; or if they remain, even then they are attended with anxieties (for what pleaſure is there here below that has no mixture or the leaſt tincture of ſorrow accompanying <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t if <hi>Solomon</hi> (who had all that heart could wiſh) called all things Van<g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. and Vexation of Spirit) or of a ſudden in the full carreer of their Grandure and greatneſs, They are like <hi>Belſhazzar</hi> in that 5 Chap: of <hi>Daniel</hi> (whoſe death was Prognoſticate by the <hi>hand writing on the
+<pb n="15" facs="tcp:153899:10"/> Wall</hi> when he was drinking out of the Golden Veſſels taken out of the Temple of <hi>Jeruſalem,</hi> and was then worſhiping the Gods of Gold) hurried away from them by death.</p>
+            <p>And certainly it is but the Juſt Reward of <hi>Ambitious</hi> Mens Merits who (as it were Idolize their Riches more than they mind upon <hi>Death</hi> and <hi>Eternity</hi>) when GOD takes either them from the World, or the Worldly Enjoyments from them. <hi>Pſalm</hi> 37. Verſe 35.36. <hi>I have ſeen the Wicked in great Power; and ſpreading himſelf like a young Bay tree.</hi> Yet he paſſed away, and lo he was not: Yea, <hi>I</hi> ſought him out, he could not be found.</p>
+            <p>Dear <hi>Soul,</hi>
+            </p>
+            <p>Now laſt of all, I beg pardon for this <hi>Prolix Letter,</hi> but in reguaird I have eaſed you of the Trouble of Reading it in Write, <hi>I</hi> hope you'll excuſe the <hi>Longitude</hi> thereof.</p>
+            <p>As <hi>I</hi> have met with ſome ſharp Difficulties in my Youth and ten<g ref="char:EOLhyphen"/>der Years, before I arrived to my <hi>Majority;</hi> So at length GOD in His Wiſe Providence, (notwithſtan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of all the <hi>Opprobries</hi> and <hi>Lies</hi> wherewith ſome Malevolous Perſons w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re pleaſed to blaicken my <hi>Fame</hi> and <hi>Good name</hi> with) hath caſten an Eye of Compaſſion upon me as he did upon <hi>Joſeph</hi> in that 41 Chap: of <hi>Geneſis,</hi> and 14 Verſe, When he was taken out of the Dungeon, and preferred by <hi>Pharoch.</hi> Or, as upon <hi>Daniel</hi> in that 6 Chap. of his Propheſies, when <hi>Darius</hi> had ſhut him up, who by the Malicious Advice of his Fellow Competitors Envyed him, becauſe he had the Preſident and firſt place of the Kingdom, becauſe of his excellent Spirit) in the Den with Lyons; who met with ſo great a Miracle, both of Power and Mercy from GOD, that GOD ſent an Angel and ſhut the Lyons Mouths, that they might not hurt him.</p>
+            <p>I might here apply ſome part of this Diſcourſe to ſome of my <hi>Friends</hi> in your <hi>City,</hi> whoſe <hi>Love,</hi> (or rather <hi>Hatred</hi>) Vents it ſelf, and ſhines forth ſo clearly, That by the Good Character they give of me to others, they plainly declare they wiſh no good to us; but on the contrair (if their <hi>Teſtimony</hi> could prevail and be Entertained) they induſtriouſly Combine both to render me infamous, and to cauſe me looſe the good eſteem that <hi>I</hi> have gained already, But I ſhall not ſay any more than what I have ſaid already; Only, I muſt inform them, that ſeeing I am the only Child on Life of my Fathers
+<pb n="16" facs="tcp:153899:11"/> whole Family, who was their eldeſt Brother, and (poſſibly) if they would reſtrain their <hi>Tongues</hi> als cloſsſy as they keep their <hi>Baggs</hi> of Money) I might be Reſpected as his Son, and I think it is not Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſtanly done in them to expoſe either my <hi>Miscarriages</hi> or <hi>Misfor<g ref="char:EOLhyphen"/>tunes</hi> to the Plurality; But if they do continue ſo to diſclaim agai<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>deavour to Speak <hi>Lies,</hi> which may be, others will believe to be true, when talked by them, I only warn them that they will be Subject, both to the Cenſure of others, [who will think it mean in them to Speak ſo of a Friend] and to my <hi>Reſentment, And laſtly,</hi> let them Remember <hi>Solon</hi>'s <hi>advice,</hi> that none can be ſaid to be happy till <hi>Death</hi> come, ſo if they die before their Children come to <hi>Majority,</hi> They cannot well know but they may meet with <hi>Misfor<g ref="char:EOLhyphen"/>tunes,</hi> als well as I have done.</p>
+            <p>
+               <hi>Finally,</hi> To conclude my <hi>Letter,</hi> I muſt inform you, That I am very happily Tryſted with a <hi>Rational, Kind,</hi> and <hi>Diſcreet Gentleman</hi> to my <hi>Maſter,</hi> whom I hope GOD has raiſed up [as another <hi>Joſeph</hi>] for my ſupport and Proviſion. He treats me with all the Civility that any of my Education and Parentage could expect; and I do not impute this to proceed out of any Merit of my own, or that <hi>I</hi> fancie that my good and faithfull Deportment is the Procureing Cauſe thereof, but it proceeds meerly from that Genuine and Innate Pro<g ref="char:EOLhyphen"/>penſity and Diſpoſition he has to Communicat Good. And it is certainly that which makes Men Aſpite to an <hi>Virtuous Ambition, Magnanimity,</hi> and have a deſire to be great, <hi>viz.</hi> To be Capable to do good to thoſe who deſerve it. This goes als near the Nature of GOD as can be, who takes pleaſure to Diſpenſe his Bleſſings upon them that fear Him.</p>
+            <p>I need not Harrangue in Commendation of his Parts or good Na<g ref="char:EOLhyphen"/>ture, every Body, and particularly your <hi>Citizens</hi> and Gentlemen of the Adjacent Countrey, [who are acquaint with him] knowing perfectly well his Facetious and taking <hi>Converſation.</hi>
+            </p>
+            <p>I wiſh GOD my preſerve him for a <hi>Bleſſing</hi> to his Friends and Family, for the good of others, and for my comfort and Satisfaction: And if he and I agree, [as I hope there ſhall nothing fall out to oc<g ref="char:EOLhyphen"/>caſion a <hi>Rupture</hi>] I ſhall be the leſs Circumſpect of keeping in with <hi>Friends,</hi> who are ſo <hi>
+                  <g ref="char:V">Ʋ</g>nchriſtian</hi> and <hi>uncharitable,</hi> and who are ſo eaſily Diſobliged, and of whoſe kindneſs I ſtand not ſo much of need as of his. I hope GOD will continue <hi>Peace</hi> and <hi>Love</hi> betwixt us, accord<g ref="char:EOLhyphen"/>ing to my Dependance upon his <hi>Providence.</hi>
+            </p>
+            <pb n="17" facs="tcp:153899:11"/>
+            <p>The ſharp Eye of any <hi>Indifferent</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>npr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>judiced Perſon,</hi> who reads this my <hi>Letter,</hi> may ſufficiently diſcern and underſtand by the S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ain of my <hi>Diſcourſe,</hi> That I have penned the ſame after ſome particular <hi>Offence</hi> received by me, and done me by my Friends; This was the true Reaſon that occaſioned me to expoſe it to the view of your <hi>Citi<g ref="char:EOLhyphen"/>zens,</hi> [for whom in particular I have taken care to cauſe Print the ſame] and thereby to let them know, That <hi>a Brether offended is harder to he won than a ſtrong City, and their contentions are like the Barrs of a Caſtle:</hi> Prov. 18 Ch: 19 Verſe.</p>
+            <p>There (may be) are <hi>ſome</hi> who will talk bad things of me, and threaten worſe, for doing the ſame, and for putting it to the <hi>Preſs:</hi> But if hereby <hi>I</hi> do not incurr my <hi>kind Maſter</hi> his Diſpleaſure, by expoſing my ſelf in <hi>Print</hi> (which I hope and expect I ſhall not) I ſhall be very Indifferent of all the <hi>Cenſures</hi> I meet with from others, He being the only man whom I now will be ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fuleſt not to of<g ref="char:EOLhyphen"/>fend, ſeing I have and ow my <hi>Bread</hi> and <hi>Breeding</hi> to his <hi>kindneſs</hi> and <hi>Love.</hi>
+            </p>
+            <p>I will take my hazard, ſeing my <hi>offence</hi> can be reckoned nothing but a juſt <hi>Vindication</hi> of my ſelf, whom ſome of my <hi>Friends</hi> in in your <hi>City,</hi> have endeavoured Characteriſtically to diſapprove and defame: For I am not affraid that <hi>I</hi> can be treated either as <hi>Sejanus</hi> was by the Emperour of <hi>Rome,</hi> or as <hi>Haman</hi> was by <hi>Abaſuerus,</hi> both of which were great <hi>Favourites</hi> the one day, and Hanged on the Morrow.</p>
+            <p>Deareſt Familiar</p>
+            <p>Salute in my name my dear <hi>Commerads</hi> the hopfull <hi>Infantry</hi> in your <hi>City,</hi> whom I ſincerly <hi>Love;</hi> And if providence lay it in my way to ſerve their Honour, and intereſt, either by my <hi>Pen</hi> or by my <hi>Tongue,</hi> aſſure your ſelves all of my willingneſs. Salute my good Friend B. G. O. and all the <hi>nice Young Ladies</hi> of my acquain<g ref="char:EOLhyphen"/>tance with you; And Particularly the Gentlewoman who Loves me (whom I am bound to Love) if there be any ſuch in your <hi>City; I</hi> will not ſay whom I Love, leſt ſhe love not me, for '<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is in vain to beſtow <hi>Love,</hi> and not to obtain <hi>Reciprocall Love</hi> in Remuner<g ref="char:EOLhyphen"/>ation.</p>
+            <pb n="18" facs="tcp:153899:12"/>
+            <p>This with my intireſt, Tendereſt reſpects and Devotions to your kind ſelf (I humbly intreating that GOD may keep you from falling, and preſent you Blamleſs before his Glory with exceeding Joy) ſhall be all that is thought neceſſar at preſent from</p>
+            <closer>
+               <salute>Kind Familiar</salute>
+               <signed>Yours while I am <hi>George Dempſter.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>The POSTSCRIPT,</head>
+            <opener>
+               <salute>Loveing Commerad,</salute>
+            </opener>
+            <p>MY Uncle Mr. <hi>John</hi> was pleaſed to ſay, when he had occaſion to ſee me, (after I had ſent him any <hi>Letters</hi> perſwaſive to <hi>Naturality</hi> and <hi>Humanity</hi>) That I wrote the ſame in my <hi>Caballs</hi> or the <hi>Taverns;</hi> although neither he nor his Brother <hi>Alexander,</hi> ever Honoured me with one return to any <hi>Letter,</hi> ever Written be me to them: But I hope no <hi>Unprejudiced perſon;</hi> nor even they (although they (may be) will Diſcommend and Diſapprove of the putting of this <hi>Letter</hi> to the <hi>Preſs</hi>) will take occaſion to ſay, that I have Penned the ſame ſo Confuſedly, as it would have been done, if in <hi>Company,</hi> But may rather take it to have been Written <hi>ex Induſtriâ,</hi> and with ſome Previous <hi>Deli<g ref="char:EOLhyphen"/>beration.</hi>
+            </p>
+            <pb n="19" facs="tcp:153899:12"/>
+            <p>
+               <hi>Deareſt Familiar,</hi>
+            </p>
+            <p>I ſhall be ſory (as I have ſaid elſe where in this my Letter) if the Printing hereof occaſion any breach 'twixt my Kind, Rati<g ref="char:EOLhyphen"/>onall and Honoured Maſter and me, whom I am bound by many Obligations to Love; But if the offence be not Juſtifiable nor VVorthy of ane Appeal or Merit one word to be ſaid in my behalf, and that this be the Common Opinion of all who Read the ſame, Then I muſt only Lament the Fate of my Fancy (which was ſo Prevalent as to induce me to cauſe Print the ſame) and be Concerned and griev'd, that the Printing hereof ſhould (if my Maſter and I muſt part for doing ſo) Demonſtrate that he has à greater reſpect for my Relations, than for me, by taking up the <hi>Quarrell,</hi> yet not debateing the Contraverſie betwixt me and them: Although I humbly conceive it would not at all Reflect upon him not to take notice what <hi>Animoſities</hi> or Latent VVrongs, Jealouſies or Debates be betwixt me and my Relatione. And I hope that the ſame GOD who has Graciouſly provided for me from my Birth, will (although Friends, Relations and Accquaintances forſake me) not leave me as ane <hi>Oſtrige</hi> in the VVilderneſs, but pitty the Tender-hearted <hi>Pelican,</hi> and cauſe me (as the <hi>Phoenix</hi> out of her burnt Aſhes) riſe more Glorious and Conſpicu<g ref="char:EOLhyphen"/>ous after the Sharp Storms of Afflicting Providences and Miſ<g ref="char:EOLhyphen"/>fortunes are paſt: For man is born to trouble, as the Sparks fly upward.</p>
+            <q>
+               <l>Cuncta prius tentanda, ſed immedicabile vulnus</l>
+               <l>Enſe reſcindendum eſt, ne pars ſincera trahatur <bibl>
+                     <hi>OVID:</hi>
+                  </bibl>
+               </l>
+               <l>Spernere, mundum, ſpernere nullum, Spernere ſeſe,</l>
+               <l>Spernere ſe ſperni, quatuor iſta beant</l>
+            </q>
+            <closer>
+               <salute>VALE.</salute>
+            </closer>
+            <pb facs="tcp:153899:13" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
